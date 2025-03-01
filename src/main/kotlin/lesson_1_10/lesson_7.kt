@@ -1,4 +1,4 @@
-package org.example
+package org.example.lesson_1_10
 
 fun main() {
 //    диапозоны (интервалы)
